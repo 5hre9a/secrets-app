@@ -12,6 +12,7 @@
 4. on your favourite browser open `localhost:3000`
 6. click on register and register with your `username` and `password`
 7. then, login to open up a brand new `secrets page`
-
+---
+<img src="https://github.com/5hre9a/secrets-website/blob/master/20200809_170416.jpg">
 ## Don't hide your secrets, share them anonymously.
 ## Made in India,by 5hre9a
