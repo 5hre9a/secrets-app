@@ -1,5 +1,8 @@
 #secrets-website
 
+A back-end website which allows you to register and login to access a secrets page
+--
+
 1. Authentication and Security
 2. made by using `node.js` `express.js` `ejs` `mongoDB`
 3. servers used: `nodemon` `mongod`
@@ -14,5 +17,6 @@
 7. then, login to open up a brand new `secrets page`
 ---
 <img src="https://github.com/5hre9a/secrets-website/blob/master/20200809_170416.jpg">
-## Don't hide your secrets, share them anonymously.
-## Made in India,by 5hre9a
+ Don't hide your secrets, share them anonymously.
+ Made in India,by 5hre9a
+--
