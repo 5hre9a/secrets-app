@@ -18,5 +18,5 @@ A back-end website which allows you to register and login to access a secrets pa
 ---
 <img src="https://github.com/5hre9a/secrets-website/blob/master/20200809_170416.jpg">
  Don't hide your secrets, share them anonymously.
- Made in India,by 5hre9a
---
+ 
+
