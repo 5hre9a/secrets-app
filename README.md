@@ -1,6 +1,6 @@
 #secrets-website
 
-A back-end website which allows you to register and login to access a secrets page
+A back-end web app allows you to register and login to access a secrets page
 --
 
 1. Authentication and Security
