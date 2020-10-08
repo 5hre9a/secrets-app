@@ -5,7 +5,7 @@ A back-end website which allows you to register and login to access a secrets pa
 
 1. Authentication and Security
 2. made by using `node.js` `express.js` `ejs` `mongoDB`
-3. servers used: `nodemon` `mongod`
+
 
 ## to RUN this
 
